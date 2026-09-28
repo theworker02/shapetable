@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shapetable",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shape digests and table fingerprints for local integrity checks.",
+  "bin": {
+    "shapetable": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shapetable.git"
+  },
+  "homepage": "https://theworker02.github.io/shapetable/",
+  "keywords": [
+    "shape",
+    "table",
+    "hash",
+    "cli",
+    "toolkit"
+  ]
+}
